@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "metadata": {
-    "generated": 1636741283000,
+    "generated": 1636742376000,
     "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_day.geojson",
     "title": "USGS Magnitude 2.5+ Earthquakes, Past Day",
     "status": 200,
@@ -333,7 +333,7 @@
       "type": "Feature",
       "properties": {
         "mag": 4.8,
-        "place": "eastern Turkey",
+        "place": "22 km NE of Sincik, Turkey",
         "time": 1636708755537,
         "updated": 1636729079641,
         "tz": null,
@@ -357,7 +357,7 @@
         "gap": 75,
         "magType": "mwr",
         "type": "earthquake",
-        "title": "M 4.8 - eastern Turkey"
+        "title": "M 4.8 - 22 km NE of Sincik, Turkey"
       },
       "geometry": {
         "type": "Point",
@@ -695,22 +695,22 @@
         "mag": 4.3,
         "place": "108 km W of La Libertad, Mexico",
         "time": 1636693758080,
-        "updated": 1636698639040,
+        "updated": 1636741442883,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ftgr",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000ftgr.geojson",
-        "felt": null,
-        "cdi": null,
+        "felt": 1,
+        "cdi": 1,
         "mmi": null,
         "alert": null,
         "status": "reviewed",
         "tsunami": 0,
-        "sig": 284,
+        "sig": 285,
         "net": "us",
         "code": "7000ftgr",
         "ids": ",us7000ftgr,",
         "sources": ",us,",
-        "types": ",origin,phase-data,",
+        "types": ",dyfi,origin,phase-data,",
         "nst": null,
         "dmin": 1.384,
         "rms": 0.5,
@@ -1053,7 +1053,7 @@
       "type": "Feature",
       "properties": {
         "mag": 4.7,
-        "place": "61 km ESE of Xunchang, China",
+        "place": "Sichuan-Guizhou border region, China",
         "time": 1636681856264,
         "updated": 1636682823040,
         "tz": null,
@@ -1077,7 +1077,7 @@
         "gap": 30,
         "magType": "mb",
         "type": "earthquake",
-        "title": "M 4.7 - 61 km ESE of Xunchang, China"
+        "title": "M 4.7 - Sichuan-Guizhou border region, China"
       },
       "geometry": {
         "type": "Point",
@@ -1495,7 +1495,7 @@
         "mag": 3.9,
         "place": "57 km ESE of Pedro Bay, Alaska",
         "time": 1636657130858,
-        "updated": 1636658401954,
+        "updated": 1636741873040,
         "tz": null,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak021eh9cns3",
         "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak021eh9cns3.geojson",
@@ -1508,8 +1508,8 @@
         "sig": 234,
         "net": "ak",
         "code": "021eh9cns3",
-        "ids": ",at00r2f8q0,ak021eh9cns3,",
-        "sources": ",at,ak,",
+        "ids": ",at00r2f8q0,us7000ftb6,ak021eh9cns3,",
+        "sources": ",at,us,ak,",
         "types": ",impact-link,origin,phase-data,shakemap,",
         "nst": null,
         "dmin": null,
