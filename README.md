@@ -1,4 +1,5 @@
-# usgs-scraper
+# Git-scraper
+##### usgs-scraper
 
 Beatriz Milz
 @BeaMilz
@@ -10,5 +11,9 @@ He showed how to use GitHub Actions to do Web Scraping, and this technique is ca
 This is the repo of the first exercise: https://github.com/beatrizmilz/usgs-scraper/blob/main/usgs.json
 
 And we only had to change 1 file!
-
-https://twitter.com/BeaMilz/status/1459229431751397389?t=7djwo1mGRqtkeYy-nBmoiA&s=03
+Fonte: https://twitter.com/BeaMilz/status/1459229431751397389?t=7djwo1mGRqtkeYy-nBmoiA&s=03
+   
+   
+ 
+# Ferramentas digitais para cientistas sociais!
+http://kit.jornalismodedados.org/
